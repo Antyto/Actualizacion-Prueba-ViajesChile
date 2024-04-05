@@ -1,0 +1,21 @@
+{
+  "name": "prueba---viajes-chile",
+  "version": "1.0.0",
+  "description": "<h1>Presentación</h1>\r <p>En este repositorio se contiene el código de la primera prueba de módulo \"FUNDAMENTOS DE DESARROLLO FRONT-END\" llamada \"Viajes Chile\". Se elaboró la página siguiendo la imagen de referencia entregada en\r las instrucciones de la prueba. Se puede revisar la página en el siguiente link: <h2>https://antyto.github.io/Prueba-Viajes-Chile/<h2></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Travel",
+    "Page"
+  ],
+  "author": "Antonieta Novoa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "react-carousel-slider": "^2.0.13",
+    "slick-carousel": "^1.8.1"
+  }
+}
